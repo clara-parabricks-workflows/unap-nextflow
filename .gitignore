@@ -1,0 +1,15 @@
+*.txt
+.csv
+*.json
+*.bam
+*.bai
+*BQSR*
+*.vcf
+*.gz
+*.tbi
+work/
+test-data/
+.nextflow
+*.swp
+*.log
+.nextflow.log.*
