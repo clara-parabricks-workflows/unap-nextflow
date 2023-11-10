@@ -9,7 +9,7 @@ This workflow includes all the steps that are needed to run :
 2. Variant calling with [DeepVariant](https://docs.nvidia.com/clara/parabricks/latest/documentation/tooldocs/man_deepvariant.html) in Parabricks
 3. Structural variant calling with Sniffles2.
   
-For more information on the NVIDIA Parabricks portion of this workflow, you can go to our [webpage] (https://www.nvidia.com/en-gb/clara/genomics/), our latest [docs page] (https://docs.nvidia.com/clara/parabricks/latest/index.html), or read the latest [developer blogs on Parabricks] (https://developer.nvidia.com/blog/search-posts/?q=parabricks).
+For more information on the NVIDIA Parabricks portion of this workflow, you can go to our [webpage](https://www.nvidia.com/en-gb/clara/genomics/), our latest [docs page](https://docs.nvidia.com/clara/parabricks/latest/index.html), or read the latest [developer blogs on Parabricks](https://developer.nvidia.com/blog/search-posts/?q=parabricks).
   
 As input you will need an ONT Pod5 data file.
 You will be able to output 
