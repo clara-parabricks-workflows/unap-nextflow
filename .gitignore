@@ -9,6 +9,7 @@
 *.tbi
 work/
 test-data/
+pipeline_info/
 .nextflow
 *.swp
 *.log
