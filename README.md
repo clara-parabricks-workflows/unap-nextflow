@@ -89,7 +89,7 @@ Launching `nextflow/main.nf` [sad_poitras] DSL2 - revision: e4e4a44464
 ```
 # Example command :
 nextflow run -c config/local.nf.conf \
-    nextflow/main.nf \
+    main.nf \
     --input "Data/Pod5" \
     --ref "parabricks_sample/Homo_sapiens_assembly38.fasta.tar"  \
     --reads '-r "SM:GM24385" -r "ID:GM24385"'
